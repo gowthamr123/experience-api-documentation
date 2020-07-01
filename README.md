@@ -4,9 +4,9 @@ The HCL Experience API is a set of OpenAPI compliant REST APIs available for cus
 The Experience API describes a high-level API through which the following specific APIs are exposed:
 HCL Experience API
 
-* **_HCL Ring API :_** Presents developer entry points to HCL DX 9.5 core platform capabilities which are divided into two main categories: Authorization APIs and Web Content APIs [API URL](https://pages.github.com/rabbani8/temp/ring-api)
-* **_HCL Digital Asset Management API :_** Presents developer entry points to the Digital Asset Management features of HCL DX 9.5 [API URL](https://pages.github.com/rabbani8/temp/dam-api)
-* **_HCL Image Processor API_**: Presents developer entry points to the Digital Asset Management Image Processor functions of HCL DX 9.5 [API URL](https://pages.github.com/rabbani8/temp/image-processor-api)
+* **_HCL Ring API :_** Presents developer entry points to HCL DX 9.5 core platform capabilities which are divided into two main categories: Authorization APIs and Web Content APIs [API URL](https://rabbani8.github.io/temp/ring-api)
+* **_HCL Digital Asset Management API :_** Presents developer entry points to the Digital Asset Management features of HCL DX 9.5 [API URL](https://rabbani8.github.io/temp/dam-api)
+* **_HCL Image Processor API_**: Presents developer entry points to the Digital Asset Management Image Processor functions of HCL DX 9.5 [API URL](https://rabbani8.github.io/temp/image-processor-api)
 
 > **Note :** Future HCL DX 9.5 feature functionality will also be exposed through the HCL Experience API.
 
@@ -18,6 +18,6 @@ The HCL Experience API is a component of the HCL Digital Experience offerings. H
 
 Documentation | URL Specification
 --------------|------------------
-HCL Ring API | https://pages.github.com/rabbani8/temp/ring-api
-HCL Digital Asset Management API | https://pages.github.com/rabbani8/temp/dam-api
-HCL Image Processor API | https://pages.github.com/rabbani8/temp/image-processor-api
+HCL Ring API | https://rabbani8.github.io/temp/ring-api
+HCL Digital Asset Management API | https://rabbani8.github.io/temp/dam-api
+HCL Image Processor API | https://rabbani8.github.io/temp/image-processor-api
